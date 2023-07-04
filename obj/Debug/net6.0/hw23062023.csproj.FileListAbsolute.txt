@@ -1,0 +1,15 @@
+C:\Users\Game\Desktop\Домашка\hw23062023\bin\Debug\net6.0\hw23062023.exe
+C:\Users\Game\Desktop\Домашка\hw23062023\bin\Debug\net6.0\hw23062023.deps.json
+C:\Users\Game\Desktop\Домашка\hw23062023\bin\Debug\net6.0\hw23062023.runtimeconfig.json
+C:\Users\Game\Desktop\Домашка\hw23062023\bin\Debug\net6.0\hw23062023.dll
+C:\Users\Game\Desktop\Домашка\hw23062023\bin\Debug\net6.0\hw23062023.pdb
+C:\Users\Game\Desktop\Домашка\hw23062023\obj\Debug\net6.0\hw23062023.csproj.AssemblyReference.cache
+C:\Users\Game\Desktop\Домашка\hw23062023\obj\Debug\net6.0\hw23062023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Game\Desktop\Домашка\hw23062023\obj\Debug\net6.0\hw23062023.AssemblyInfoInputs.cache
+C:\Users\Game\Desktop\Домашка\hw23062023\obj\Debug\net6.0\hw23062023.AssemblyInfo.cs
+C:\Users\Game\Desktop\Домашка\hw23062023\obj\Debug\net6.0\hw23062023.csproj.CoreCompileInputs.cache
+C:\Users\Game\Desktop\Домашка\hw23062023\obj\Debug\net6.0\hw23062023.dll
+C:\Users\Game\Desktop\Домашка\hw23062023\obj\Debug\net6.0\refint\hw23062023.dll
+C:\Users\Game\Desktop\Домашка\hw23062023\obj\Debug\net6.0\hw23062023.pdb
+C:\Users\Game\Desktop\Домашка\hw23062023\obj\Debug\net6.0\hw23062023.genruntimeconfig.cache
+C:\Users\Game\Desktop\Домашка\hw23062023\obj\Debug\net6.0\ref\hw23062023.dll
